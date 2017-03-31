@@ -1,0 +1,1 @@
+# codeigniter_inventory
