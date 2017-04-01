@@ -38,7 +38,9 @@
                        <center><h1> Halo Terimakasih Telah mencoba aplikasi saya ,
 						ini menggunkan codeigniter 3.1.4</h1>
 						<br>
-						<h1> Jika ada yang ingin di tanyakan hubungin aja ane  <a href="https://www.facebook.com/fahmie.nugraha"> <strong>Disini</strong></a></h1></center>
+						<h1> Jika ada yang ingin di tanyakan hubungin aja ane  <a href="https://www.facebook.com/fahmie.nugraha"> <strong>Disini</strong></a></h1>
+						<h1> Penjelasan Lengkap/tuorial nya  <a href="https://www.tokopedia.com/educatecode/tutorial-codeigniter-24-jam-mahir-codeigniter?src=topads"> <strong>Disini</strong></a></h1>
+						</center>
 						
                     
                 </div>
